@@ -5,8 +5,8 @@
 %global crate shlex
 
 Name:           rust-%{crate}
-Version:        0.1.1
-Release:        9%{?dist}
+Version:        2.0.1
+Release:        1%{?dist}
 Summary:        Split a string into shell words, like Python's shlex
 
 # Upstream license specification: MIT/Apache-2.0
